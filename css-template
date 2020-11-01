@@ -169,6 +169,7 @@ input {
     opacity: 1;
 }
 
+
 .product-gallery input[name='slide_switch'] ~ img {
     opacity: 0;
     transform: scale(1.1);
